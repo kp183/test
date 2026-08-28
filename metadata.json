@@ -1,0 +1,6 @@
+{
+  "name": "CymbalMart Shopping Agent",
+  "description": "Convert party planning intent into a curated, budget-conscious CymbalMart shopping list with hands-free voice control, dietary constraint adjustments, drink math, and seamless checkout.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
